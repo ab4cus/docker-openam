@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenAM onbuild image
 
 This image uses Docker "ONBUILD" directives to run configuration commands in a child image.
@@ -53,3 +54,7 @@ Open  http://openam.test.com:9080/openam in your browser. Log on with amadmin/pa
 
 
  
+=======
+# docker-openam
+Repositorio para Dockerfile para servidor de OpenAM
+>>>>>>> b740c32d9cdedcbc70a63810f35cb7d80b7a2b87
